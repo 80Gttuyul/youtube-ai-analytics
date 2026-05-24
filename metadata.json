@@ -1,0 +1,6 @@
+{
+  "name": "YouTube Viral Monitor",
+  "description": "AI-powered real-time forecasting, monitoring, and generation suite for YouTube creators aiming to go viral.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
